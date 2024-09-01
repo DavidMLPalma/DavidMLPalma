@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- ⚡ I'm currently studying at Instituto Superior Técnico
+- 🏢 Student at Instituto Superior Técnico
+- ⚡ Currently undertaking a Master's degree in Computer Science and Engineering
 <!--
 **DavidMLPalma/DavidMLPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
