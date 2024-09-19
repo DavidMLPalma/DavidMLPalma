@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - 🏢 Student at Instituto Superior Técnico
-- ⚡ Currently undertaking a Master's degree in Computer Science and Engineering
+- 🎓 Studied Computer Science and Engineering (LEIC)
+- 🎓 Currently undertaking a Master's degree in Computer Science and Engineering (MEIC)
+<!-- TODO -> Add CV here -->
 <!--
 **DavidMLPalma/DavidMLPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
